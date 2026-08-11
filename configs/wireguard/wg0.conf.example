@@ -1,0 +1,12 @@
+# WireGuard Server Configuration Template
+# Keys are auto-generated during setup - DO NOT commit real keys
+
+[Interface]
+PrivateKey = <SERVER_PRIVATE_KEY>
+Address = 10.0.0.1/24
+ListenPort = 51820
+
+[Peer]
+PublicKey = <CLIENT_PUBLIC_KEY>
+AllowedIPs = 10.0.0.2/32
+

@@ -1,0 +1,10 @@
+.DS_Store
+*.key
+*.private
+.idea/
+__pycache__/
+*.pyc
+node_modules/
+.env
+.venv/
+

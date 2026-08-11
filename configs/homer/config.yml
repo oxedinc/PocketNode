@@ -1,0 +1,43 @@
+title: "🚀 PocketNode"
+subtitle: "Home Server Dashboard"
+header: true
+footer: false
+colors:
+  light:
+    highlight-primary: "#6366f1"
+    highlight-secondary: "#818cf8"
+    highlight-hover: "#a5b4fc"
+    background: "#f8fafc"
+    card-background: "#ffffff"
+    text: "#1e293b"
+    text-header: "#ffffff"
+    text-title: "#0f172a"
+    text-subtitle: "#475569"
+    card-shadow: rgba(0, 0, 0, 0.08)
+    link: "#6366f1"
+    link-hover: "#4f46e5"
+services:
+  - name: "Services"
+    icon: "fas fa-rocket"
+    items:
+      - name: "Cockpit"
+        subtitle: "Server administration"
+        url: "http://192.168.100.175:9090"
+        icon: "fas fa-tachometer-alt"
+      - name: "Transmission"
+        subtitle: "Torrent downloads"
+        url: "http://192.168.100.175:9091"
+        icon: "fas fa-download"
+      - name: "Samba"
+        subtitle: "smb://192.168.100.175/shared"
+        icon: "fas fa-folder-open"
+      - name: "DNS Blocker"
+        subtitle: "99,570+ domains blocked"
+        icon: "fas fa-shield-alt"
+      - name: "SSH"
+        subtitle: "ssh android@192.168.100.175"
+        icon: "fas fa-terminal"
+      - name: "WireGuard"
+        subtitle: "VPN on port 51820"
+        icon: "fas fa-lock"
+
