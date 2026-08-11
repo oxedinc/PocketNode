@@ -1,6 +1,7 @@
 <div align="center">
 
 # 🚀 PocketNode
+<img width="2048" height="768" alt="E6D34CEE-8F56-4A69-9673-FBFAABE2C5F2" src="https://github.com/user-attachments/assets/7ccf7887-b06f-4204-97b9-f4546c0ca2a8" />
 
 ### Turn any old Android phone into a powerful Linux home server
 
